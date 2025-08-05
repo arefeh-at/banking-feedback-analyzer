@@ -3,6 +3,9 @@
 This project is a simple prototype for analyzing customer feedback in the banking sector using OpenAI's GPT model.
 It allows users to upload a CSV file of feedback, which is then processed to classify sentiment, extract key issues, and summarize each entry.
 
+## Live Demo
+You can Try it here : [https://banking-feedback-analyzer-3onwbxjwpsvq7jaqyznki5.streamlit.app](https://banking-feedback-analyzer-3onwbxjwpsvq7jaqyznki5.streamlit.app)
+
 ### Features
 
 - Upload CSV of customer feedback
