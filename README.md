@@ -37,3 +37,9 @@ It allows users to upload a CSV file of feedback, which is then processed to cla
 ---
 
 Inspired by the Generative AI Challenge – use case: Feedback Analysis in Banking.
+
+## 📸 Demo Screenshot
+
+![App Demo - Upload](demo_0.png)
+![App Demo - Summary](demo_1.png)
+
